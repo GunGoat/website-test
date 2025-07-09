@@ -1,0 +1,542 @@
+[
+  {
+    "code": "MFY006",
+    "name": "Mechanics I",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "standalone"
+  },
+  {
+    "code": "ETE335",
+    "name": "AI for natural language",
+    "repository": "",
+    "credits": 3,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["AI", "Python"],
+    "program": "standalone"
+  },
+  {
+    "code": "DVA103",
+    "name": "Fundamentals in Programming",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C"],
+    "program": "standalone"
+  },
+  {
+    "code": "DVA100",
+    "name": "Introduction to Robotics",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["C"],
+    "program": "standalone"
+  },
+  {
+    "code": "CDT406",
+    "name": "Applied Artificial Intelligence",
+    "repository": "",
+    "credits": 15.0,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["AI", "Python"],
+    "program": "standalone"
+  },
+  {
+    "code": "DVGB06",
+    "name": "Applied Programming",
+    "repository": "",
+    "credits": 15.0,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["C#", ".NET"],
+    "program": "standalone"
+  },
+  {
+    "code": "1DT305",
+    "name": "Introduction to Applied Internet of Things",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "G",
+    "gradingScale": "U, G, VG",
+    "tags": ["IoT", "Python"],
+    "program": "standalone"
+  },
+  {
+    "code": "5TF048",
+    "name": "Databases and Web Based Systems",
+    "repository": "https://github.com/GunGoat/5TF048-Databases-and-Web-Based-Systems",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C#", ".NET", "SQL Server"],
+    "program": "standalone"
+  },
+  {
+    "code": "5TF042",
+    "name": "Applications Development for Internet",
+    "repository": "https://github.com/GunGoat/5TF042-Applications-Development-for-Internet",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C#", ".NET", "SQL Server"],
+    "program": "standalone"
+  },
+  {
+    "code": "DVA476",
+    "name": "Deep Learning for Industrial Imaging",
+    "repository": "",
+    "credits": 2.5,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["AI", "Python"],
+    "program": "standalone"
+  },
+  {
+    "code": "DVGB07",
+    "name": "C# .NET",
+    "repository": "https://github.com/GunGoat/DVGB07-CSharp-.NET",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C#", ".NET"],
+    "program": "standalone"
+  },
+  {
+    "code": "DM2586",
+    "name": "Generative AI for Media Technology and Interaction Design",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["AI", "Python"],
+    "program": "standalone"
+  },
+  {
+    "code": "DT8055",
+    "name": "Fundamentals of Computer Vision with Deep Learning",
+    "repository": "https://github.com/GunGoat/DT8055-Fundamentals-of-Computer-Vision-with-Deep-Learning",
+    "credits": 5.0,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["AI", "Python"],
+    "program": "standalone"
+  },
+  {
+    "code": "DVA463",
+    "name": "Research methods in computer science",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "master"
+  },
+  {
+    "code": "CDT414",
+    "name": "Software Verification and Validation",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["Java"],
+    "program": "master"
+  },
+  {
+    "code": "DVA439",
+    "name": "Intelligent Systems",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["AI", "MATLAB"],
+    "program": "master"
+  },
+  {
+    "code": "DVA422",
+    "name": "Software Engineering 3: Software Architecture and Processes",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C#"],
+    "program": "master"
+  },
+  {
+    "code": "DVA436",
+    "name": "Model-Driven Engineering",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["Java"],
+    "program": "master"
+  },
+  {
+    "code": "DVA455",
+    "name": "Software Development for Real-Time Systems",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "3",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "master"
+  },
+  {
+    "code": "DVA444",
+    "name": "Industrial Systems In Cloud Computing",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "master"
+  },
+  {
+    "code": "CDT402",
+    "name": "Distributed Software Development",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["Java"],
+    "program": "master"
+  },
+  {
+    "code": "DVA437",
+    "name": "Safety Critical Systems Engineering",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "master"
+  },
+  {
+    "code": "DVA340",
+    "name": "Artificial Intelligence",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["AI", "Python"],
+    "program": "master"
+  },
+  {
+    "code": "ELA101",
+    "name": "Basics in Electronics",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "master"
+  },
+  {
+    "code": "MMA307",
+    "name": "Numerical Methods with MATLAB",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "VG",
+    "gradingScale": "U, G, VG",
+    "tags": ["MATLAB"],
+    "program": "master"
+  },
+  {
+    "code": "DVA501",
+    "name": "Master Thesis in Computer Science with Specialization in Software Engineering",
+    "repository": "",
+    "credits": 30.0,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["C#", "DXL", "IBM DOORS"],
+    "program": "master"
+  },
+  {
+    "code": "MTA102",
+    "name": "CAD in the Context of Robotics",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA104",
+    "name": "Data Structures, Algorithms and Program Development",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C++"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA331",
+    "name": "Thesis for the Degree of Bachelor in Computer Science",
+    "repository": "",
+    "credits": 15.0,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["C#", "Unity"],
+    "program": "bachelor"
+  },
+  {
+    "code": "MAA141",
+    "name": "Basic Calculus",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA223",
+    "name": "Information - Knowledge - Science - Ethics",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA313",
+    "name": "Software Engineering 2: Project Teamwork",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["Java"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA336",
+    "name": "Parallell Systems",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C++"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA332",
+    "name": "Software Engineering 1: Basic Course",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["Java"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA218",
+    "name": "Data Communication",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "3",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA338",
+    "name": "Fundamentals of Computer Graphics",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "3",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C++"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA229",
+    "name": "Functional Programming with F#",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["F#"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA315",
+    "name": "Operating Systems",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C"],
+    "program": "bachelor"
+  },
+  {
+    "code": "MAA140",
+    "name": "Basic Vector Algebra",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "3",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA232",
+    "name": "Programming Mobile Applications",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["Java"],
+    "program": "bachelor"
+  },
+  {
+    "code": "MAA121",
+    "name": "Basic Course in Mathematics",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA231",
+    "name": "Development of Web Applications",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["CSS", "PHP", "JavaScript"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA123",
+    "name": "Interaction Design",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["CSS", "JavaScript"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA234",
+    "name": "Databases",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["SQL Server"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA222",
+    "name": "Object-Oriented Programming",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C++"],
+    "program": "bachelor"
+  },
+  {
+    "code": "MMA122",
+    "name": "Discrete Mathematics",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "5",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": [],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA233",
+    "name": "Linux Operating System and Development Environment",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["Bash"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA117",
+    "name": "Programming",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "4",
+    "gradingScale": "U, 3, 4, 5",
+    "tags": ["C"],
+    "program": "bachelor"
+  },
+  {
+    "code": "DVA118",
+    "name": "Introduction to Computer Science",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["C"],
+    "program": "bachelor"
+  },
+  {
+    "code": "FYA006",
+    "name": "Physics, Basic Course II",
+    "repository": "",
+    "credits": 10,
+    "grade": "VG",
+    "gradingScale": "U, G, VG",
+    "tags": [],
+    "program": "foundationYear"
+  },
+  {
+    "code": "MAA105",
+    "name": "Mathematics, Basic Course II",
+    "repository": "",
+    "credits": 12.5,
+    "grade": "VG",
+    "gradingScale": "U, G, VG",
+    "tags": [],
+    "program": "foundationYear"
+  },
+  {
+    "code": "FYA005",
+    "name": "Physics, Basic Course I",
+    "repository": "",
+    "credits": 15,
+    "grade": "VG",
+    "gradingScale": "U, G, VG",
+    "tags": [],
+    "program": "foundationYear"
+  },
+  {
+    "code": "KEA001",
+    "name": "Chemistry, Basic Course",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "VG",
+    "gradingScale": "U, G, VG",
+    "tags": [],
+    "program": "foundationYear"
+  },
+  {
+    "code": "MAA104",
+    "name": "Mathematics, Basic Course I",
+    "repository": "",
+    "credits": 15,
+    "grade": "VG",
+    "gradingScale": "U, G, VG",
+    "tags": [],
+    "program": "foundationYear"
+  }
+]
